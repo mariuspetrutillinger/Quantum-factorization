@@ -14,3 +14,6 @@ Commands:
 pip install qiskit-ibmq-provider
 
 pip install qiskit
+
+Bibiliografie:
+https://github.com/Qiskit/textbook/blob/main/notebooks/ch-algorithms/shor.ipynb
